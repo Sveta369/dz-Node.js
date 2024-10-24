@@ -11,5 +11,4 @@ const operations = {
 };
 
 const result = operations[operation](num1, num2);
-
 console.log(`${result}`);
